@@ -35,9 +35,13 @@ This project presents the design and implementation of a **smart maze-solving ro
 ## 📁 Project Structure
 
 ├── Code/ # Python code for RRT, A*
+
 ├── Images/ # Captured maze images and processed outputs
+
 ├── Hardware/ # Wiring diagrams and chassis images
+
 ├── Results/ # Screenshots and performance logs
+
 ├── README.md # Project documentation
 
 ---
